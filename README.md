@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **priyadharshinik1720@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I_zO8P-O287beyPwsIzP6iy6GAav8FPI/view?usp=drivesdk](https://drive.google.com/file/d/1I_zO8P-O287beyPwsIzP6iy6GAav8FPI/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XPTQf7rGBl1pJNdIBHFjeaDSJBXhd7GE/view?usp=sharing](https://drive.google.com/file/d/1XPTQf7rGBl1pJNdIBHFjeaDSJBXhd7GE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyadharshinik4&show_icons=true&locale=en" alt="priyadharshinik4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshinik4&" alt="priyadharshinik4" /></p>
-
 
 
 
